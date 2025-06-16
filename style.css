@@ -35,6 +35,8 @@ body{
     font-size: 10rem
 }
 
+
+
 @media(max-width:786) {
     #bar1,#bar2{
         display: none;
